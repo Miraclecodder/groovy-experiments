@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/groovy-experiments" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/.local/share/Trash/files/idea-IU-191.6183.87/plugins/JavaScriptLanguage/helpers/node_modules" />
+    <handled-path value="$PROJECT_DIR$/.vscode/extensions/ecmel.vscode-html-css-0.2.0/node_modules" />
+    <handled-path value="$PROJECT_DIR$/.vscode/extensions/necinc.elmmet-1.0.1/node_modules" />
+    <handled-path value="$PROJECT_DIR$/.vscode/extensions/tht13.html-preview-vscode-0.2.5/node_modules" />
+    <handled-path value="$PROJECT_DIR$/Загрузки/idea-IU-191.6183.87/plugins/JavaScriptLanguage/helpers/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/.local/share/Trash/files/.IntelliJIdea2019.1/config/plugins/NodeJS/js/mocha-intellij/package.json" />
+      <path value="$PROJECT_DIR$/.local/share/Trash/files/idea-IU-191.6183.87/plugins/JavaScriptLanguage/helpers/package.json" />
+      <path value="$PROJECT_DIR$/.local/share/Trash/files/idea-IU-191.6183.87/plugins/JavaScriptLanguage/languageService/eslint/package.json" />
+      <path value="$PROJECT_DIR$/.vscode/extensions/abusaidm.html-snippets-0.2.1/package.json" />
+      <path value="$PROJECT_DIR$/.vscode/extensions/ecmel.vscode-html-css-0.2.0/package.json" />
+      <path value="$PROJECT_DIR$/.vscode/extensions/necinc.elmmet-1.0.1/package.json" />
+      <path value="$PROJECT_DIR$/.vscode/extensions/tht13.html-preview-vscode-0.2.5/package.json" />
+      <path value="$PROJECT_DIR$/Загрузки/idea-IU-191.6183.87/plugins/JavaScriptLanguage/helpers/package.json" />
+      <path value="$PROJECT_DIR$/Загрузки/idea-IU-191.6183.87/plugins/JavaScriptLanguage/languageService/eslint/package.json" />
+    </packageJsonPaths>
+  </component>
+</project>
